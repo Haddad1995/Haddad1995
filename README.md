@@ -80,9 +80,10 @@ BSc thesis, in cooperation with EPAM Systems, using Cucumber (BDD), Rest Assured
 
 ## 📜 Certifications
 
+- BSc Computer Science Engineering, University of Debrecen, Hungary (2023)
 - QA Software Testing Certificate, The Hope Tech (2022)
 - Cisco Certified Network Associate (CCNA) Routing and Switching (2020)
-- AI & Agentic AI Programming Workshop
+- AI & Agentic AI Programming Workshop (2025)
 
 ---
 
