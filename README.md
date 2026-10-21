@@ -5,14 +5,13 @@
   <a href="https://www.linkedin.com/in/haddadabdallah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abdallahhaddad95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Jordan-2E7D32?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-brightgreen?style=for-the-badge" alt="Open to freelance projects"/>
 </p>
 
 ---
 
 ## 🧪 About Me
 
-I'm a **Software & Quality Engineer** with **2+ years of experience in QA**, helping teams ship reliable web and mobile products. I've tested platforms across healthcare, higher education, banking, travel, public transportation, and professional regulation. My focus is making sure releases are reliable, secure, and correct, from the UI all the way down to the APIs and payment flows behind it.
+I'm a **Software & Quality Engineer** with **2+ years of experience in QA**, helping teams ship reliable web and mobile products. I've tested platforms across healthcare, higher education, banking, travel agencies, public transportation, and professional regulation. My focus is making sure releases are reliable, secure, and correct, from the UI all the way down to the APIs and payment flows behind it.
 
 - 🔍 Functional, regression, exploratory, and end-to-end testing across **8 client platforms**
 - 💳 API, integration, and **payment & financial workflow** testing
