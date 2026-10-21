@@ -12,7 +12,7 @@
 
 ## 🧪 About Me
 
-I'm a **Software & Quality Engineer** helping teams ship reliable web and mobile products. I spent nearly two years at **Optimum Partners**, where I tested web and mobile platforms across healthcare, higher education, banking, travel, public transportation, and professional regulation. My focus is making sure releases are reliable, secure, and correct, from the UI all the way down to the APIs and payment flows behind it.
+I'm a **Software & Quality Engineer** with **2+ years of experience in QA**, helping teams ship reliable web and mobile products. I've tested platforms across healthcare, higher education, banking, travel, public transportation, and professional regulation. My focus is making sure releases are reliable, secure, and correct, from the UI all the way down to the APIs and payment flows behind it.
 
 - 🔍 Functional, regression, exploratory, and end-to-end testing across **8 client platforms**
 - 💳 API, integration, and **payment & financial workflow** testing
@@ -30,6 +30,7 @@ I'm a **Software & Quality Engineer** helping teams ship reliable web and mobile
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5A9E3E?style=flat-square)
@@ -42,8 +43,6 @@ I'm a **Software & Quality Engineer** helping teams ship reliable web and mobile
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Workflow & Platforms**
 
@@ -67,7 +66,7 @@ I'm a **Software & Quality Engineer** helping teams ship reliable web and mobile
 | Role | Company | Period |
 |------|---------|--------|
 | Software & Quality Engineer | Optimum Partners | Feb 2025 – Oct 2026 |
-| QA Manual & Automation Testing Fellow | Apptrainers | Dec 2024 – Jun 2025 |
+| QA Manual & Automation Testing | Apptrainers | Dec 2024 – Jun 2025 |
 | Full Stack Development Trainee | Stack Soft | Feb 2024 – Jul 2024 |
 | QA Manual Testing Intern | The Hope Tech | Oct 2021 – Mar 2022 |
 
