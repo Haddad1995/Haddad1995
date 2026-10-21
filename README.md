@@ -5,13 +5,14 @@
   <a href="https://www.linkedin.com/in/haddadabdallah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abdallahhaddad95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Jordan-2E7D32?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-brightgreen?style=for-the-badge" alt="Open to freelance projects"/>
 </p>
 
 ---
 
 ## 🧪 About Me
 
-I'm a QA Engineer at **Optimum Partners**, where I test web and mobile platforms across healthcare, higher education, banking, travel, public transportation, and professional regulation. My focus is on making sure releases are reliable, secure, and correct, from the UI all the way down to the APIs and payment flows behind it.
+I'm a **Software & Quality Engineer** helping teams ship reliable web and mobile products. I spent nearly two years at **Optimum Partners**, where I tested web and mobile platforms across healthcare, higher education, banking, travel, public transportation, and professional regulation. My focus is making sure releases are reliable, secure, and correct, from the UI all the way down to the APIs and payment flows behind it.
 
 - 🔍 Functional, regression, exploratory, and end-to-end testing across **8 client platforms**
 - 💳 API, integration, and **payment & financial workflow** testing
@@ -65,7 +66,7 @@ I'm a QA Engineer at **Optimum Partners**, where I test web and mobile platforms
 
 | Role | Company | Period |
 |------|---------|--------|
-| Software & Quality Engineer | Optimum Partners | Feb 2025 – Present |
+| Software & Quality Engineer | Optimum Partners | Feb 2025 – Oct 2026 |
 | QA Manual & Automation Testing Fellow | Apptrainers | Dec 2024 – Jun 2025 |
 | Full Stack Development Trainee | Stack Soft | Feb 2024 – Jul 2024 |
 | QA Manual Testing Intern | The Hope Tech | Oct 2021 – Mar 2022 |
